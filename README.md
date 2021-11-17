@@ -1,0 +1,1 @@
+Todos os exercícios do curso da Trybe
