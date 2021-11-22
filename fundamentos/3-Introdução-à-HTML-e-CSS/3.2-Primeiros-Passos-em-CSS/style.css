@@ -1,0 +1,23 @@
+h1 {
+    font-family: sans-serif;
+    font-style: italic;
+    background-color: red;
+}
+
+p {
+    font-weight: 600px;
+    font-size: 3em;
+    line-height: 0em;
+    background-color: orange;
+}
+
+body {
+    font-size: 16pix;
+    background-color: green;
+}
+
+ul {
+    text-align: center;
+    text-decoration: blueviolet;
+    background-color: yellow;
+}
