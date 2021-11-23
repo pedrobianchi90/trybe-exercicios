@@ -1,8 +1,6 @@
-## Tags
+Tags
 <spam class="exemplo">exemplo</span> - Estiliza um elemento inline
 <div class="exemplo">exemplo</div> - Estiliza em blocovários elementos dentro de um container
-
-##
 
 overflow: visible; - Deixa os conteúdos excedentes visíveis
 overflow: hidden; - Deixa os conteúdos excedentes escondidos
