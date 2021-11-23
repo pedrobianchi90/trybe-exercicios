@@ -1,0 +1,32 @@
+div:hover {
+    border: 20px solid black
+}
+
+.cor-primária {
+    color: red;
+}
+
+.cor-secundária {
+    color: orange;
+}
+
+.cor-complementar {
+    color: pink;
+    font-size: 50px;
+}
+
+.cor-escura {
+    color: brown;
+}
+
+.cor-clara {
+    color: cyan;
+}
+
+h3 {
+    font-style: initial;
+}
+
+.impar {
+    font-style: italic;
+}

@@ -20,3 +20,23 @@ position: absolute; - coloca a posição absoluta. A frente dos outros elementos
 position: fixed; - Deixa o elemento fixo na posição quando dá o scroll
 z-index: ordem dos elementos sobrepostos
 float - Deixa um elemento flutuante
+
+p, div {} = agrupamento de elementos - Importante lembra a vírgula, para não confundir com descendência de elementos.
+
+pseudo classes 
+ex 1: li:hover {} - muda característica quando passa o mouse por cima
+ex 2: li:active{} - muda característica quando clico.
+
+
+Colocar duas classes - class="classe-1 classe-2"
+
+Mudar elemento específico dentro de uma tag específica
+Ex: tag.classe {
+    color: black;
+}
+
+Descendencia:
+Ex: Tenho um p dentro de um li que está dentro de um ul
+ul.classe li p {
+    color: black;
+}
