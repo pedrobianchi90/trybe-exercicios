@@ -16,3 +16,7 @@ border-widht: largura da borda
 border-style: estilo da borda
 border-color: cor da borda
 margin: margem
+position: absolute; - coloca a posição absoluta. A frente dos outros elementos
+position: fixed; - Deixa o elemento fixo na posição quando dá o scroll
+z-index: ordem dos elementos sobrepostos
+float - Deixa um elemento flutuante
